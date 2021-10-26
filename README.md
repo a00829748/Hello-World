@@ -24,6 +24,9 @@
 - Ricardo Olmedo El Salvador
 - Salvador
 - Samuel
+- Miguel
+- Diego
+- Iker
 
 #Ingenieras
 - Angela
