@@ -22,6 +22,21 @@
 - Aurturo
 - Santiago Minga Ecuador
 - Ricardo Olmedo El Salvador
+- Salvador
+- Samuel
+- Miguel
+- Diego
+- Iker
+
+#Ingenieras
+- Angela
+- Andrea
+- Ingrid
+- Mariana
+- Brenda
+- Renatta
+- Miranda
+- Alexia
 
 
 
