@@ -7,7 +7,7 @@
 
 [ITESM](https://tec.mx/es)
 
-![alt text](image.jpg)
+![alt text](WIN_20210913_15_15_07_Pro.jpg)
 
 *Vamos a desayunar a Toks, tacos Pioneros a saltillo*
 
