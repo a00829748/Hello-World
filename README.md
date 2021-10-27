@@ -1,5 +1,5 @@
 # SemanaTec26-10-21
-# Ricardo Jose Olmedo
+# Ricardo Jose Olmedo 100
 1. Computacion
 2. Matematicas
 3. Historia del arte
